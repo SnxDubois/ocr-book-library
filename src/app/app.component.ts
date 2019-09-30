@@ -13,7 +13,7 @@ export class AppComponent {
     authDomain: 'book-library-6c547.firebaseapp.com',
     databaseURL: 'https://book-library-6c547.firebaseio.com',
     projectId: 'book-library-6c547',
-    storageBucket: '',
+    storageBucket: 'book-library-6c547.appspot.com',
     messagingSenderId: '253610682250',
     appId: '1:253610682250:web:dacafdda6ba9e70763ca73',
     measurementId: 'G-4YN4QK9JN9'
